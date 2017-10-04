@@ -1,0 +1,9 @@
+10;pobla;perez
+2;franco;niell
+1;martin;palermo
+32;carlitos;tevez
+11;josefina;mourinho
+14;rodrigo;palacio
+901;1;09876543210987654
+1010;papu;gomez
+1011;papi;gomez
