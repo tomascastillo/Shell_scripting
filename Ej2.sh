@@ -191,7 +191,16 @@ do
 	#echo "vecHashNuevosIdUsr : DNI: $elemento4 - User: ${vecHashNuevosIdUsr[$elemento4]}"
 done
 
-mv errores2.log errores.log
+if [ -f errores.log ] ;
+then
+	mv errores2.log errores.log
+else
+	cp errores2.log errores.log
+	rm errores2.log
+fi
+
+echo "Terminacion exitosa del script"
+
 
 unset vecHash
 unset vecHashNuevos
