@@ -75,7 +75,7 @@ function validarCantidadCaracteres(){
 	then
 		echo "La cantidad de caracteres de $1 es correcta"
 	else
-		echo "La cantidad de caracteres es mayor a la pedida, se ha cortado el user y quedo asi: $1"
+		echo "La cantidad de caracteres es mayor a 16 caracteres, se ha limitado el nombre de usuario a esa cantidad"
 		return 100
 	fi
 }

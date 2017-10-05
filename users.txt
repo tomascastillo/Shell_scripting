@@ -3,9 +3,8 @@
 11;jmourinho;josefina;mourinho
 10;poperez;pobla;perez
 14;rpalacio;rodrigo;palacio
-900;1123456789012345;1;12345678901234567890
-32;ctevez;carlitos;tevez
 901;1098765432109876;1;09876543210987654
 2;fniell;franco;niell
 1010;pgomez;papu;gomez
 1011;pagomez;papi;gomez
+32;ctevez;carlitos;tevez
